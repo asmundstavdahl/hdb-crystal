@@ -1,0 +1,18 @@
+name: hdb
+version: 0.1.0
+
+authors:
+  - Åsmund Stavdahl <asmundstavdahl@users.noreply.github.com>
+
+description: |
+  HTTP Database
+
+dependencies:
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+license: MIT
